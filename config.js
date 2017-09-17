@@ -3,9 +3,9 @@ module.exports = {
     host: "localhost",
     mysql:
             {
-                host: 'localhost',
+                host: '127.0.0.1',
                 user: 'root',
                 password: '',
-                database: 'mock_data'
+                database: 'node_js'
             }
 }
